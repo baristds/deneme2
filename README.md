@@ -15,8 +15,7 @@ An python script to run speedtest on all available servers, AUTOMATICALLY!!!
 
 ## Run
 ```sh
-cd speedtest-all-server/
-python3 speedtest_all_server.py
+$ python3 main.py
 ```
 
 The result will be recorded in <b>result.csv</b> file. 
